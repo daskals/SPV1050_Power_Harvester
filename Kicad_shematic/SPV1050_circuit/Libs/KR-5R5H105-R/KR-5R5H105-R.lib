@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model KR-5R5H105-R
+#/13662032/116884/2.49/2/3/Capacitor Polarised
+DEF KR-5R5H105-R C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "KR-5R5H105-R" 350 150 50 H V L CNN
+F2 "KR5R5H105R" 350 50 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA21/95150.pdf" 350 -50 50 H I L CNN
+F4 "Cap Supercap 1F 5.5V -20% to 80% (19 X 6.7mm) Radial Stacked Coin 20mm 30 Ohm 1000h 70C Tray" 350 -150 50 H I L CNN "Description"
+F5 "7" 350 -250 50 H I L CNN "Height"
+F6 "Eaton" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "KR-5R5H105-R" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "504-KR-5R5H105-R" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/PowerStor-Eaton/KR-5R5H105-R?qs=9GX7soZQXxHnif9MVuja%2Fw%3D%3D" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "" 350 -750 50 H I L CNN "Arrow Part Number"
+F11 "" 350 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 2 0 0 100 R 50 50 0 0 P
+X ~ 1 500 0 100 L 50 50 0 0 P
+P 5 0 1 6 200 100 200 -100 230 -100 230 100 200 100 N
+P 2 0 1 6 180 50 140 50 N
+P 2 0 1 6 160 70 160 30 N
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 300 0 400 0 N
+P 5 0 1 10 300 100 300 -100 270 -100 270 100 300 100 F
+ENDDRAW
+ENDDEF
+#
+#End Library

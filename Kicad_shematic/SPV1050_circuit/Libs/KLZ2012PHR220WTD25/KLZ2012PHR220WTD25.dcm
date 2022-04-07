@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KLZ2012PHR220WTD25
+D SMD / SMT Inductors (Coils), L=22?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_decoupling_klz2012-hr_en.pdf
+$ENDCMP
+#
+#End Doc Library
